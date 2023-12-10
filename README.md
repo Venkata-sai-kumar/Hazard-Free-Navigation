@@ -2,7 +2,7 @@
 ## Prerequisites
 
 - Try to download data from the [Kaggle San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime/data).
-- Then preprocess the dataset by changing the columns names of ```X -> Longitude```, and ```Y t-> Latitude```.
+- Then preprocess the dataset by changing the columns names of ```X -> Longitude```, and ```Y -> Latitude```.
 
 - macOS or Windows operating system 
 - Python 3.x installed (Python usually comes pre-installed on macOS) if not download it from [Python Website](https://www.python.org/downloads/)
